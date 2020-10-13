@@ -1,6 +1,2 @@
 # hello-world
-Test repo
-
-Moon tacos are DEFINITELY not better than Earth tacos. for real
-
-sign test2
+This a test repo for understanding git, github, and typescript.
